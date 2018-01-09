@@ -7,4 +7,3 @@ test git submit 2 17:17
 
 Creating a new branch is quick and simple
 
-add by zhangsan

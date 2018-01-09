@@ -5,4 +5,5 @@ test git submit 1
 
 test git submit 2 17:17
 
-Creating a new branch is quick
+Creating a new branch is quick & simple
+
